@@ -12,9 +12,3 @@
 ## 🛠️ 技术栈
 - **Language**: Python 3.8+
 - **Algorithm**: Tree of Thoughts, BFS, DFS
-
-## 🚀 如何运行
-
-1. 克隆仓库:
-   ```bash
-   git clone [https://github.com/你的用户名/ToT-24-Game-Solver.git](https://github.com/你的用户名/ToT-24-Game-Solver.git)
